@@ -21,7 +21,8 @@ This project analyzes Netflix's content dataset and presents insights through an
 - Data Cleaning & Formatting
 
 ## Dashboard Preview
-![Netflix Dashboard](dashboard.png)
+![Netflix Dashboard] <img width="877" height="407" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/1f100ef8-470e-4dfb-b97e-0e6d1bd6c300" />
+
 
 ## How to Use
 1. Download the `Netflix.xlsm` file.
